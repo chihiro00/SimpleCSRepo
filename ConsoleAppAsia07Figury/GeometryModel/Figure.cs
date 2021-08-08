@@ -5,9 +5,10 @@ using System.Text;
 
 namespace ConsoleAppAsia07Figury.GeometryModel
 {
-    class Figure
+    abstract class Figure
     {
         public Point Position;
-
+        abstract public double Area();
+        abstract public double Perimeter();
     }
 }
