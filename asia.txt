@@ -1,0 +1,74 @@
+    1  dir
+    2  ls
+    3  git init
+    4  git init
+    5  git status
+    6  git add
+    7  git add -A
+    8  git status
+    9  git commit -m"initial commit"
+   10    git config --global user.email "joanna.augustyn1997@gmail.com"
+   11    git config --global asia
+   12    git config --global user.name asia
+   13    git config --global user.name "Joanna Augustyn"
+   14  git commit -m"initial commit"
+   15  git status
+   16  notepad
+   17  git saturn :D
+   18  git status
+   19  git status
+   20  git status
+   21  git add -A
+   22  git status
+   23  git commit -m"adding figure"
+   24  git status
+   25  git log
+   26  git checkout e3435c1c82e4442d
+   27  git log
+   28  git checkout 43f4a3807cd610
+   29  git reset
+   30  git checkout 43f4a3807cd610
+   31  git reset --HARD
+   32  git reset --hard
+   33  git checkout 43f4a3807cd610
+   34  git checkout
+   35  git status
+   36  git checkout master
+   37  git status
+   38  git lod
+   39  git log
+   40  git checkout e3435c1c82e44
+   41  git checkout master
+   42  git status
+   43  git add -A
+   44  git status
+   45  git commit -m"Making Figure abstract and adding Circle"
+   46  git status
+   47  git log
+   48  git checkout 43f4a3807cd6104b4545
+   49  git status 
+   50  git log
+   51  git checkout e3435c1c82e4442d4
+   52  git tag -a v1.0-m "Starting version"
+   53  git tag -a v1.0 -m"Starting version"
+   54  git tag -l
+   55  git tag -l -A
+   56  git tag -l -n
+   57  git checkout master
+   58  git reset --hard
+   59  git checkout master
+   60  git log
+   61  git checkout 43f4a3807cd6104b4545c
+   62  git tag -a v1.5 -m"Adding Figure"
+   63  git checkout master
+   64  git reset --hard
+   65  git checkout master
+   66  git tag -a v2.0 -m"Making Figure abstract and adding Circle"
+   67  git -l -n
+   68  git tag -l -b
+   69  git tag -l -n
+   70  git checkout v2.0
+   71  git checkout v1.0
+   72  git checkout master
+   73  history
+   74  history > asia.txt
