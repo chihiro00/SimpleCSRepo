@@ -24,11 +24,14 @@ namespace ConsoleAppAsia07Figury
             Point pos3 = new Point(14.6, 9.2);
             Rectangle rec3 = new Rectangle(pos2, 2.0, 3.0);
             Console.WriteLine("Hello World!");
+            Point pos4 = new Point(24.7, -8.2);
+            Square sqr = new Square(pos4, 10);
             Console.WriteLine("Figury");
             List<Figure> lf = new List<Figure>();
             lf.Add(cir);
             lf.Add(rec3);
             lf.Add(rec2);
+            lf.Add(sqr);
             foreach(Figure fig in lf)
             {
                 Console.WriteLine(fig);
